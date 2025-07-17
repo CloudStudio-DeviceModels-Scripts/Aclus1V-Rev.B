@@ -82,3 +82,4 @@ function updateEndpointUIRules(endpoint, rules) {
     rules.canDelete = true;
     // rules.canEditSubType = (endpoint.address == "2");
 }
+
